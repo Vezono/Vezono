@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to Britain.
+- I`m hate working on webdev and frontend.
+- 📫 How to reach me: t.me/gbball
 
 <!--
 **Vezono/Vezono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
