@@ -1,6 +1,7 @@
 ### Welcome to Britain.
 - I`m hate working on webdev and frontend.
 - Bridge builder.
+- Backend python developer.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Vezono&show_icons=true&count_private=true&theme=graywhite">
 
