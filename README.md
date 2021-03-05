@@ -1,5 +1,5 @@
 ### Welcome to Britain.
-- I`m hate working on webdev and frontend.
+- I hate working on webdev and frontend.
 - Bridge builder.
 - Backend python developer.
 - Api wrapper.
